@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/drawable/btn_border_back.xml" value="0.36203703703703705" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/drawable/button_back.xml" value="0.3828125" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/drawable/ic_load_file.xml" value="0.36203703703703705" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/drawable/ic_menu_camera.xml" value="0.36203703703703705" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/drawable/ic_profile2.xml" value="0.3828125" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/app_bar_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_edit.xml" value="0.25" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_open.xml" value="0.25" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_registr.xml" value="0.25" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_send.xml" value="0.25" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_sms.xml" value="0.33" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/fragment_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/menu/activity_main_drawer.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/menu/main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/zulfi/AndroidStudioProjects/Yotoqxona/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

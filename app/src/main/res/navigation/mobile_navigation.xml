@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/splashFragment">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="oliy_talim.uz.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="oliy_talim.uz.ui.splash.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="oliy_talim.uz.ui.login.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/smsFragment"
+        android:name="oliy_talim.uz.ui.login.SmsFragment"
+        android:label="fragment_sms"
+        tools:layout="@layout/fragment_sms" />
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="oliy_talim.uz.ui.gallery.GalleryFragment"
+        android:label="Arizalar ruyxati"
+        tools:layout="@layout/fragment_gallery" />
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="oliy_talim.uz.ui.slideshow.SlideshowFragment"
+        android:label="Turar joy haqida"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/sendFragment"
+        android:name="oliy_talim.uz.ui.orders.SendFragment"
+        android:label="Ariza junatish"
+        tools:layout="@layout/fragment_send" />
+    <fragment
+        android:id="@+id/editFragment"
+        android:name="oliy_talim.uz.ui.orders.EditFragment"
+        android:label="Ariza taxrirlash"
+        tools:layout="@layout/fragment_edit" />
+    <fragment
+        android:id="@+id/registrFragment"
+        android:name="oliy_talim.uz.ui.login.RegistrFragment"
+        android:label="fragment_registr"
+        tools:layout="@layout/fragment_registr" />
+    <fragment
+        android:id="@+id/openFragment"
+        android:name="oliy_talim.uz.ui.login.OpenFragment"
+        android:label="fragment_open"
+        tools:layout="@layout/fragment_open" />
+</navigation>
